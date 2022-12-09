@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Animation</string>
+    <string name="target_image">Target Image</string>
+    <string name="rotate">Rotate</string>
+    <string name="bounce">Bounce</string>
+    <string name="fade_in">Fade In</string>
+    <string name="fade_out">Fade Out</string>
+    <string name="zoom_in">Zoom In</string>
+    <string name="zoom_out">Zoom Out</string>
+    <string name="slide_out">Slide Out</string>
+    <string name="slide_in">Slide In</string>
+</resources>
